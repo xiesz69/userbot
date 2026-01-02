@@ -1,4 +1,4 @@
-# 🤖 Auto-UserBot Manager – Membership Plans
+# 🤖 Auto-UserBot Manager ~ Membership Plans
 
 Our Auto‑UserBot Manager helps you promote on Telegram with automation, security, and easy management. Choose the plan that fits your needs:
 
