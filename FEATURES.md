@@ -77,17 +77,5 @@ Welcome to the official feature guide for **Auto-UserBot Manager**. Our system i
 
 ---
 
-### 🛡️ Built-in Security & Performance
-1. **1-Minute Watchdog**: Monitoring system health every **1 minute**. Automatically detects and force-blasts missed schedules (both Fixed and Random) if the scheduler was delayed.
-2. **Soft-Delete Target Protection**: Deleting a target from your account list hides it but preserves it within existing schedules to prevent automation breakage.
-3. **Interactive Wizard**: Simplified schedule creation with numbered lists and numeric buttons for easy navigation.
-4. **Cloud-Link Architecture**: Message templates exclusively use Telegram links to fetch content on-the-fly, ensuring zero server disk usage and perfect data portability.
-5. **Anti-Flood Protocol**: Support for **Custom Delays** and dynamic sleep variations to avoid Telegram limits.
-6. **Profile Auto-Sync**: Automatically updates account ID, @username, and Name upon login or session restore.
-7. **ZIP-Shield**: Advanced session encryption using a system-wide high-entropy password. Restore is now fully automated—simply upload your .zip and the system handles the rest securely.
-8. **Member Recovery**: Expired members are safely stored for 3 days before permanent deletion.
-9. **🎁 Free Trial Program**: Admin-controlled trial periods for new users to test premium features (DWYOR).
-10. **Persistent Schedule Editing**: All members can modify targets, templates, timing, or delays at any time. Blast history and "Last Blasted" stats are strictly preserved to prevent manipulation.
-
-### 📞 Contact
+## 📞 Contact
 **Owner :** https://t.me/xiesz
