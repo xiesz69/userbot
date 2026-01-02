@@ -36,7 +36,7 @@ Our Auto‑UserBot Manager helps you promote on Telegram with automation, securi
 - Media support up to 50MB  
 - Copy & forward mode  
 - No watermark  
-- Smart auto‑reply assistant with anti‑spam & notifications  
+- A smart auto-reply assistant with keywords and catalogues
 
 ---
 
