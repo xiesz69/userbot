@@ -62,7 +62,7 @@ Welcome to the official feature guide for **Auto-UserBot Manager**. Our system i
     - **Automation Awareness**: Remains active during scheduled **Promotion Blasts**—it correctly distinguishes between your manual chats and system automation.
     - **Instant Manual Refresh**: Toggling the assistant ON/OFF in the panel instantly resets all response cooldowns for a fresh start.
   - **Advanced Cooldown Logic**:
-    - **Keyword Match**: 15-second cooldown for instant responsiveness.
+    - **Keyword Match**: 10-second cooldown for instant responsiveness.
     - **Greeting Message**: 4-hour cooldown to prevent spamming manual conversations.
   - **Anti-Loop Protection**: Automatically ignores other bots to prevent endless automated chat cycles.
   - **High Performance**: Direct responses without artificial typing delays.
