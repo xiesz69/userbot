@@ -11,7 +11,7 @@ Our Auto‑UserBot Manager helps you promote on Telegram with automation, securi
 - Up to 2 active schedules  
 - Save up to 50 targets  
 - Media support (text, photo, video, file up to 10MB)  
-- Copy mode only  
+- Copy mode only
 
 ---
 
@@ -23,7 +23,7 @@ Our Auto‑UserBot Manager helps you promote on Telegram with automation, securi
 - Save up to 70 targets  
 - Media support up to 50MB  
 - Copy & forward mode  
-- No watermark on messages  
+- No watermark  
 
 ---
 
