@@ -8,9 +8,9 @@ Our Auto‑UserBot Manager helps you promote on Telegram with automation, securi
 *Basic starter package*  
 - 1 userbot account  
 - 1 message template  
-- Up to 2 active schedules  
+- Up to 2 active schedules (Fixed/Random/Loop)
 - Save up to 50 targets  
-- Media support (text, photo, video, file up to 10MB)  
+- Media support (text, photo, video, file up to 1MB)  
 - Copy mode only
 
 ---
@@ -19,9 +19,9 @@ Our Auto‑UserBot Manager helps you promote on Telegram with automation, securi
 *More flexibility for professionals*  
 - 1 userbot account  
 - 2 message templates  
-- Up to 3 active schedules  
+- Up to 3 active schedules (Fixed/Random/Loop)
 - Save up to 70 targets  
-- Media support up to 50MB  
+- Media support up to 5MB  
 - Copy & forward mode  
 - No watermark  
 
@@ -31,9 +31,9 @@ Our Auto‑UserBot Manager helps you promote on Telegram with automation, securi
 *Full package with smart assistant*  
 - 1 userbot account  
 - 3 message templates  
-- Up to 4 active schedules  
+- Up to 4 active schedules (Fixed/Random/Loop)
 - Save up to 100 targets  
-- Media support up to 50MB  
+- Media support up to 5MB  
 - Copy & forward mode  
 - No watermark  
 - A smart auto-reply assistant with keywords and catalogues
