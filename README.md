@@ -27,7 +27,7 @@ Our Auto‑UserBot Manager helps you promote on Telegram with automation, securi
 
 ---
 
-## 💎 VIP Member (Recommended)  
+## 💎 VIP Member  
 *Full package with smart assistant*  
 - 1 userbot account  
 - 3 message templates  
@@ -41,4 +41,4 @@ Our Auto‑UserBot Manager helps you promote on Telegram with automation, securi
 ---
 
 ## 📞 Contact  
-**Owner:** [t.me/xiesz](https://t.me/xiesz)
+**Owner :** [t.me/xiesz](https://t.me/xiesz)
